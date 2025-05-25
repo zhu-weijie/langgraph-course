@@ -1,0 +1,12 @@
+Your Conversation Log:
+You: Hi good evening
+AI: Good evening! How can I assist you today?
+
+You: tell me a joke
+AI: Sure! Here’s one for you:
+
+Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+
+End of Conversation
